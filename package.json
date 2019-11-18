@@ -1,0 +1,26 @@
+{
+  "name": "@codewell/is-image",
+  "version": "1.0.0",
+  "description": "Determine if an object is an image",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewell/is-image.git"
+  },
+  "keywords": [],
+  "author": "Filip Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codewell/is-image/issues"
+  },
+  "homepage": "https://github.com/codewell/is-image#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
