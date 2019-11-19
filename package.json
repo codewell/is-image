@@ -1,6 +1,6 @@
 {
   "name": "@codewell/is-image",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Determine if an object is an image",
   "main": "index.js",
   "directories": {
