@@ -2,7 +2,6 @@
 Determine if an object is an image
 
 ## Installation
-Not yet available
 ```
 npm install @codewell/is-image
 ```
